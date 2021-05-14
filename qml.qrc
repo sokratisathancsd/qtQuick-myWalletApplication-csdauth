@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Settings.qml</file>
+        <file>RemoveFunds.qml</file>
+        <file>MyWallet.qml</file>
+        <file>Home.qml</file>
+        <file>CommonExpenses.qml</file>
+        <file>AddFunds.qml</file>
+        <file>img/menu.png</file>
+        <file>img/wallet.png</file>
+        <file>RemoveFunds2.qml</file>
+    </qresource>
+</RCC>
